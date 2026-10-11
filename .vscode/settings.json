@@ -15,5 +15,10 @@
             "name": "Local MySQL",
             "askForPassword": true
         }
-    ]
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql-connector-j-26.7.0.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
